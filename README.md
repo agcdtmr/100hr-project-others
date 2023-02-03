@@ -5,7 +5,7 @@
 - [Salon website and mobile app project](https://100hr-project-salon.vercel.app/)
 - [News website and mobile app project](https://agcdtmr.github.io/100hr-project-news/)
 - [Restaurant website and mobile app project](https://100hr-project-restaurant.vercel.app/)
-- [Tech startup website and mobile app project(https://100hr-tech-startup.vercel.app/)
+- [Tech startup website and mobile app project](https://100hr-tech-startup.vercel.app/)
 - [Basic navbar project](https://100hr-project-navbar.vercel.app/)
 - [Tech news website and mobile app project](https://100hr-project-tech-news.vercel.app/)
 - [Wireframe website and mobile app project](https://100hr-project-source-wireframe.vercel.app/)
