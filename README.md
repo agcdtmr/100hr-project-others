@@ -1,1 +1,17 @@
-# agcdtmr-100hr-project-others
+# 100hr-project
+
+- [Calculator project](https://agcdtmr.github.io/100hr-project-calculator/)
+- [Subscriptin page project](https://agcdtmr.github.io/100hr-project-subscription-form/)
+- [Salon website and mobile app project](https://100hr-project-salon.vercel.app/)
+- [News website and mobile app project](https://agcdtmr.github.io/100hr-project-news/)
+- [Restaurant website and mobile app project](https://100hr-project-restaurant.vercel.app/)
+- [Tech startup website and mobile app project(https://100hr-tech-startup.vercel.app/)
+- [Basic navbar project](https://100hr-project-navbar.vercel.app/)
+- [Tech news website and mobile app project](https://100hr-project-tech-news.vercel.app/)
+- [Wireframe website and mobile app project](https://100hr-project-source-wireframe.vercel.app/)
+- [Online academy website and mobile app project](https://100hr-project-online-academy-7h7m.vercel.app/)
+- [Simple site project](https://100hr-project-site-lab.vercel.app/)
+- [layout1](https://agcdtmr.github.io/100hr-project-layout1/)
+- [layout2](https://agcdtmr.github.io/100hr-project-layout2/)
+- [Layout3](https://agcdtmr.github.io/100hr-project-layout3/)
+- [Layout using css media queries and floats](https://agcdtmr.github.io/100hr-project-pain/)
