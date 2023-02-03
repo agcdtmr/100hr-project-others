@@ -1,7 +1,7 @@
 # 100hr-project
 
 - [Calculator](https://agcdtmr.github.io/100hr-project-calculator/)
-- [Subscriptin page](https://agcdtmr.github.io/100hr-project-subscription-form/)
+- [Subscription form](https://agcdtmr.github.io/100hr-project-subscription-form/)
 - [Salon website](https://100hr-project-salon.vercel.app/)
 - [News website](https://agcdtmr.github.io/100hr-project-news/)
 - [Restaurant website](https://100hr-project-restaurant.vercel.app/)
