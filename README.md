@@ -1,5 +1,7 @@
 # 100hr-project
 
+These 100 hour projects are part of the freelance work as (Community-taught) Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
+
 - [Calculator](https://agcdtmr.github.io/100hr-project-calculator/)
 - [Subscription form](https://agcdtmr.github.io/100hr-project-subscription-form/)
 - [Salon website](https://100hr-project-salon.vercel.app/)
