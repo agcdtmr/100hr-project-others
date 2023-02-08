@@ -2,6 +2,7 @@
 
 These ongoing 100 hour projects are part of the freelance work as (Community-taught) Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
+- [Dog API](https://github.com/agcdtmr/100hr-project-DogAPI)
 - [Calculator](https://github.com/agcdtmr/100hr-project-calculator)
 - [Subscription form](https://github.com/agcdtmr/100hr-project-subscription-form)
 - [Salon website](https://github.com/agcdtmr/100hr-project-salon)
