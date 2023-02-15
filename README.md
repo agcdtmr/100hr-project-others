@@ -2,6 +2,7 @@
 
 These ongoing 100 hour projects are part of the freelance work as (Community-taught) Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
+- [Cats Facts API](https://github.com/agcdtmr/100hr-project-CatFactsAPI)
 - [Unsolicited Advice API](https://github.com/agcdtmr/100hr-project-adviceAPI)
 - [Climatiq API](https://github.com/agcdtmr/100hr-project-climatiqAPI)
 - [Dog API](https://github.com/agcdtmr/100hr-project-DogAPI)
