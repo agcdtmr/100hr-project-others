@@ -3,11 +3,11 @@
 These ongoing 100 hour projects are part of the freelance work as (Community-taught) Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
 🔧 Learning Tech Stack:
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Node.js, Express
-Database: MongoDB, SQL
-Version Control: Git
-Tools: VS Code, Postman
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express
+- Database: MongoDB, SQL
+- Version Control: Git
+- Tools: VS Code, Postman
 
 ## Projects
 
